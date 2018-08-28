@@ -1,10 +1,9 @@
-.App {
-  text-align: center;
+html, body {
+  height: 100%
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.App {
+  text-align: center;
 }
 
 .App-header {
@@ -22,23 +21,41 @@
   font-size: large;
 }
 
+.main-header-pic {
+  width: 25% !important;
+}
+
 .header-font {
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'Open Sans', sans-serif;
 }
 
+.jumbo {
+  background-color: white !important;
+  margin-top: 7%;
+  margin-bottom: 10%;
+}
+
 .main-header-font {
   font-family: 'Montserrat', sans-serif;
-  /* font-weight: 600px; */
-  /* font-weight: 600px !important; */
+  font-size: 70px !important;
 }
 
 .main-header-subtitle-font {
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px !important;
 }
 
+.social-icon {
+  margin-right: 30px;
+}
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.navbar.navbar-default {
+  border-bottom: 0;
+  background-color: white !important;
+}
+
+.navbar-buttons {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
