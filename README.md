@@ -1,4 +1,4 @@
-Weclome!
+Welcome!
 
 - This is the master branch for my personal portfolio created with React and bootstrapped from create-react-app. It is a work in progress.
 
