@@ -36,6 +36,11 @@ html, body {
   margin-bottom: 10%;
 }
 
+.jumbo-text {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
 .main-header-font {
   font-family: 'Montserrat', sans-serif;
   font-size: 70px !important;
@@ -47,7 +52,11 @@ html, body {
 }
 
 .social-icon {
-  margin-right: 30px;
+  margin-right: 40px;
+}
+
+.social-icon-left {
+  margin-left: 40px;
 }
 
 .navbar.navbar-default {
