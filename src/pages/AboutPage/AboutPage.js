@@ -26,7 +26,6 @@ const AboutPage = () =>
       <div className="social-space">
         <SocialIcon url="https://www.youtube.com/user/jr0fosho" />
         <SocialIcon url="https://itunes.apple.com/us/podcast/the-triathlete-beat-a-triathlon-podcast-for-everyone/id1352884223?mt=2"/>
-        <SocialIcon url="https://play.google.com/music/listen?u=0#/ps/Iyxo6hiqgvh6m66iefavqrujxmm"/>
         <SocialIcon url="https://www.instagram.com/hopspotproductions/"/>
       </div>
     </div>
