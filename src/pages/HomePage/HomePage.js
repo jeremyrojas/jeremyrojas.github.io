@@ -14,7 +14,7 @@ const HomePage = () => (
     </p>
     <div>
       <SocialIcon url="https://www.linkedin.com/in/jeremytrojas/jeremy_tri"/>
-      <SocialIcon url="https://github.com/jeremytrojas"/>
+      <SocialIcon url="https://github.com/jeremyrojas"/>
       <SocialIcon url="https://twitter.com/jeremy_tri"/>
       <SocialIcon url="https://www.instagram.com/jeremy_tri/"/>
     </div>
