@@ -1,0 +1,13 @@
+.navbar .navbar-default {
+  border-bottom: 0;
+  background-color: white !important;
+}
+
+.navbar-buttons {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+a {
+  color: #2d3436 !important;
+}

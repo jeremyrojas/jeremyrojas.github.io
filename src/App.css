@@ -25,15 +25,21 @@ html, body {
   width: 25% !important;
 }
 
-.header-font {  
-  font-family: 'Open Sans', sans-serif;
-}
-
 .jumbo {
   background-color: white !important;
   margin-top: 7%;
   margin-bottom: 10%;
 }
+
+.jumbo-left {
+  background-color: white !important;
+}
+
+.jumbo-left-align {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 
 .main-header-font {
   font-family: 'Montserrat', sans-serif;
@@ -49,12 +55,6 @@ html, body {
   margin-right: 30px;
 }
 
-.navbar.navbar-default {
-  border-bottom: 0;
-  background-color: white !important;
-}
-
-.navbar-buttons {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+.social-space {
+  margin-top: 25px !important;
 }
