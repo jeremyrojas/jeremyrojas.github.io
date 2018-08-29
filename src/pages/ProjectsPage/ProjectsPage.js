@@ -10,11 +10,11 @@ const ProjectsPage = () =>
       <hr/>
       <div className="main-header-subtitle-font text-left">
         <p>
-          More projects coming soon...
+          Projects coming soon...
         </p>
         <p>
           <span>
-            In the mean time, feel free to check out my
+            In the mean time, check out my
              <a href="https://github.com/jeremyrojas"> GitHub </a>
             for this site's source code!
           </span>
