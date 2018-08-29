@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Navbar, Nav, NavItem } from 'react-bootstrap';
-// The Header creates links that can be used to navigate
-// between routes.
+
 const NavigationBar = () => (
   <Navbar collapseOnSelect>
     <Navbar.Header>
